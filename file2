@@ -1,0 +1,12 @@
+package com.example.mypackage;
+
+public class ThreadTest {
+public static void main(String[] args) {
+	
+TwentyeighthAssign t=new TwentyeighthAssign();
+	
+	t.start();
+	
+}
+	
+}
